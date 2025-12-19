@@ -11,3 +11,6 @@ first compile this code, make sure you have c++ complier installed
 then run
 ``` g++ 8queens.cpp && ./a ```
 this would open a web page in default browser where you can look at all the possible solutions.
+
+## how to run it directly without needing to compile
+just download the 8queens.exe file from the releases and run it.
